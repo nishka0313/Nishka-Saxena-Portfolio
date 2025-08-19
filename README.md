@@ -27,7 +27,7 @@ All projects are implemented in Python using Jupyter Notebooks.
 
 ---
 
-## 🌌 3. Star Classification
+## 3. Star Classification
 **Goal:** Classify stars into categories (e.g., White Dwarf, Main Sequence, Supergiants) based on their temperature, luminosity, radius, and other astrophysical features.  
 **Highlights:**
 - EDA with stellar parameter distributions and HR diagrams.
@@ -38,14 +38,14 @@ All projects are implemented in Python using Jupyter Notebooks.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 - **Languages:** Python
 - **Libraries:** NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, XGBoost, SciPy
 - **Tools:** Jupyter Notebook
 
 ---
 
-## 📬 Contact
+## Contact
 If you'd like to collaborate, discuss these projects, or learn more about my work, feel free to connect:
 
 - **Email:** nishkasaxena@gmail.com
