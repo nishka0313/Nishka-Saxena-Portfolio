@@ -1,4 +1,4 @@
-# Data Science & Machine Learning Portfolio
+# Data Science Portfolio
 
 This repository contains three of my applied data science and machine learning projects, showcasing a range of skills from predictive modeling and statistical analysis to astrophysical classification. 
 All projects are implemented in Python using Jupyter Notebooks.
