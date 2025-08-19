@@ -49,6 +49,6 @@ All projects are implemented in Python using Jupyter Notebooks.
 If you'd like to collaborate, discuss these projects, or learn more about my work, feel free to connect:
 
 - **Email:** nishkasaxena@gmail.com
-- **LinkedIn:** [My LinkedIn](https://linkedin.com/in/nishka-saxena)
-- - **GitHub:** [Your GitHub](https://github.com/nishka0313)  
+- **LinkedIn:** [Nishka Saxena](https://linkedin.com/in/nishka-saxena)
+- **GitHub:** [nishka0313](https://github.com/nishka0313)  
 
