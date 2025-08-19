@@ -12,7 +12,7 @@ All projects are implemented in Python using Jupyter Notebooks.
 - Model comparison using Logistic Regression, Random Forest, and XGBoost.
 - Evaluation with accuracy, precision, recall, and ROC-AUC metrics.
 
-📂 **Notebook:** [`Stroke Prediction.ipynb`](Stroke%20Prediction-1.ipynb)
+**Notebook:** [`Stroke Prediction.ipynb`](Stroke%20Prediction-1.ipynb)
 
 ---
 
@@ -23,7 +23,7 @@ All projects are implemented in Python using Jupyter Notebooks.
 - Data visualization to represent spectra and peak distributions.
 - Interpretation of patterns for potential compound identification.
 
-📂 **Notebook:** [`mass-spec.ipynb`](mass-spec-1.ipynb)
+**Notebook:** [`mass-spec.ipynb`](mass-spec-1.ipynb)
 
 ---
 
@@ -34,7 +34,7 @@ All projects are implemented in Python using Jupyter Notebooks.
 - Data normalization and feature scaling for model training.
 - Confusion matrix and classification report for performance assessment.
 
-📂 **Notebook:** [`Star Classification.ipynb`](Star%20Classification.ipynb)
+**Notebook:** [`Star Classification.ipynb`](Star%20Classification.ipynb)
 
 ---
 
