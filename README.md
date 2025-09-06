@@ -41,7 +41,7 @@ All projects are implemented in Python using Jupyter Notebooks.
 ## Tech Stack
 - **Languages:** Python
 - **Libraries:** NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, XGBoost, SciPy
-- **Tools:** Jupyter Notebook
+- **Tools:** VS Code
 
 ---
 
