@@ -1,11 +1,24 @@
 # Data Science Portfolio
 
-This repository contains my applied data science and machine learning projects, showcasing a range of skills from predictive modeling and statistical analysis to astrophysical classification. 
-All projects are implemented in Python using Jupyter Notebooks.
+This repository showcases my applied data science, analytics, and machine learning projects, with a focus on real-world problem solving, statistical modeling, and predictive analytics. Projects emphasize data cleaning, exploratory analysis, model building, and clear interpretation of results. All work is implemented in Python using VS Code.
 
 ---
 
-## 1. Stroke Prediction
+## 1. Shark Tank Deal Analysis
+**Goal:** Use statistical inference and regression models to analyze startup funding outcomes and investment decisions.  
+**Highlights:**
+- Confidence interval estimation and hypothesis testing
+- Bootstrap resampling and simulated sampling distributions
+- Linear regression to analyze relationships between valuation, equity, and funding
+- Logistic regression to predict deal outcomes, evaluated using ROC–AUC
+- Clear interpretation of coefficients, diagnostics, and limitations
+- 
+**Notebook:** [`sharks_project.ipynb`](sharks_project.ipynb)
+
+---
+
+
+## 2. Stroke Prediction
 **Goal:** Develop a machine learning model to predict the likelihood of a patient experiencing a stroke based on health and demographic data.  
 **Highlights:**
 - Data preprocessing, handling missing values, and encoding categorical features.
@@ -16,7 +29,7 @@ All projects are implemented in Python using Jupyter Notebooks.
 
 ---
 
-## 2. Mass Spectrometry Analysis
+## 3. Mass Spectrometry Analysis
 **Goal:** Analyze mass spectrometry data to detect and interpret significant peaks to understand fraction sample data.  
 **Highlights:**
 - Peak detection algorithms for identifying compounds.
@@ -27,7 +40,7 @@ All projects are implemented in Python using Jupyter Notebooks.
 
 ---
 
-## 3. Star Classification
+## 4. Star Classification
 **Goal:** Classify stars into categories (e.g., White Dwarf, Main Sequence, Supergiants) based on their temperature, luminosity, radius, and other astrophysical features.  
 **Highlights:**
 - EDA with stellar parameter distributions and HR diagrams.
@@ -40,7 +53,7 @@ All projects are implemented in Python using Jupyter Notebooks.
 
 ## Tech Stack
 - **Languages:** Python
-- **Libraries:** NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, XGBoost, SciPy
+- **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, XGBoost, SciPy, Statsmodels
 - **Tools:** VS Code
 
 ---
