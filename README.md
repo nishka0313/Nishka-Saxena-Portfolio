@@ -12,7 +12,7 @@ This repository showcases my applied data science, analytics, and machine learni
 - Linear regression to analyze relationships between valuation, equity, and funding
 - Logistic regression to predict deal outcomes, evaluated using ROC–AUC
 - Clear interpretation of coefficients, diagnostics, and limitations
-- 
+  
 **Notebook:** [`sharks_project.ipynb`](sharks_project.ipynb)
 
 ---
